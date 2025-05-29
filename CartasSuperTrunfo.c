@@ -101,5 +101,7 @@ printf("PIB: %fR$\n", pib2);
 printf("Pontos turisticos: %i locais\n", pontosturisticos2);
 printf(" \n"); //Espaço
 
+//finalizado
+
 return 0;
 }
